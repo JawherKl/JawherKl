@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**JawherKl/JawherKl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer with over 2 years of hands-on experience, specializing in widely acclaimed frameworks such as Angular, Spring Boot, Node.js, and Symfony. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.
 
-Here are some ideas to get you started:
+🌟 **Skills and Expertise:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** Angular, HTML, CSS, JavaScript
+- **Backend:** Spring Boot, Node.js, Symfony
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Jenkins
+
+💡 I thrive on challenges and enjoy learning new technologies to solve complex problems. I'm always eager to collaborate on exciting projects and contribute to the tech community.
+
+📫 Let's connect and build something amazing together!

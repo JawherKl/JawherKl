@@ -14,11 +14,9 @@ I'm a passionate full-stack developer with over 2 years of hands-on experience, 
 💡 I thrive on challenges and enjoy learning new technologies to solve complex problems. I'm always eager to collaborate on exciting projects and contribute to the tech community.
 
 🔭 My Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JawherKl&show_icons=true&locale=en&layout=compact" alt="JawherKl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en" alt="JawherKl" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JawherKl" alt="JawherKl" /></a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JawherKl&" alt="JawherKl" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JawherKl&show_icons=true&locale=en&layout=compact" alt="JawherKl"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en" alt="JawherKl"/></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JawherKl" alt="JawherKl"/></a></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JawherKl" alt="JawherKl"/></p>
 
 📫 Let's connect and build something amazing together!

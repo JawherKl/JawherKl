@@ -13,6 +13,8 @@ I'm a passionate full-stack developer with over 2 years of hands-on experience, 
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
 - **Tools:** Git, Docker, Jenkins, Lens, Kafka, Redis, Portainer, ELK Stack, Grafana
 
+![devTools](devTools.png)
+
 💡 I thrive on challenges and enjoy learning new technologies to solve complex problems. I'm always eager to collaborate on exciting projects and contribute to the tech community.
 
 🔭 My Github Stats

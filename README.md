@@ -5,10 +5,10 @@
 I'm a passionate full-stack developer with over 2 years of hands-on experience, specializing in widely acclaimed frameworks such as Angular, Spring Boot, Node.js, Symfony, Go and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.
 
 🌟 **Skills and Expertise:**
-- **Frontend:** Angular, HTML, SCSS, CSS, JavaScript, TypeScript
+- **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap, JavaScript, TypeScript
 - **Backend:** Node.js, Go, Symfony, Spring Boot, Quarkus
-- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
-- **Tools:** Git, Docker, K8s, Jenkins, Lens, Argodb, Kafka, Redis, Portainer, ELK Stack, Grafana, Prometheus
+- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite
+- **Tools:** Git, Docker, K8s, Jenkins, Lens, Argodb, Kafka, Redis, Portainer, ELK Stack, Grafana, Prometheus, Apache Hadoop
 
 ![devTools](devTools.png)
 

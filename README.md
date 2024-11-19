@@ -8,7 +8,7 @@ I'm a passionate full-stack developer with over 2 years of hands-on experience, 
 - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap, JavaScript, TypeScript
 - **Backend:** Node.js, Go, Symfony, Spring Boot, Quarkus
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite
-- **Tools:** Git, Docker, K8s, Jenkins, Lens, Argodb, Kafka, Redis, Portainer, ELK Stack, Grafana, Prometheus, Apache Hadoop
+- **Tools:** Git, Docker, K8s, Jenkins, Lens, Argodb, Kafka, Redis, Portainer, ELK Stack, Grafana, Graylog, Prometheus, Apache Hadoop
 
 ![devTools](devTools.png)
 

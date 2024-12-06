@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=blueviolet&style=flat" alt="JawherKl" /> </p>
 
 I'm a passionate full-stack developer with over 2 years of hands-on experience, specializing in widely acclaimed frameworks such as Angular, Spring Boot, Node.js, Symfony, Go and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.
-
-🌟 **Skills and Expertise:**
+<details open>
+<summary><h2>🌟 Skills and expertise</h2></summary>
 - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap, JavaScript, TypeScript
 - **Backend:** Node.js, Go, Symfony, Spring Boot, Quarkus
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite
@@ -14,7 +14,7 @@ I'm a passionate full-stack developer with over 2 years of hands-on experience, 
 ![devTools](devTools.png)
 
 💡 I thrive on challenges and enjoy learning new technologies to solve complex problems. I'm always eager to collaborate on exciting projects and contribute to the tech community.
-
+</details>
 🔭 **My Github Stats**:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JawherKl&show_icons=true&locale=en&layout=compact" alt="JawherKl"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en" alt="JawherKl"/></p>

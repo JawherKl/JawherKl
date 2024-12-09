@@ -17,7 +17,7 @@ I'm a passionate full-stack developer with over 2 years of hands-on experience, 
 </details>
 <details open>
 <h2>🔭 My github stats</h2>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JawherKl&show_icons=true&locale=en&layout=compact" alt="JawherKl"/></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JawherKl&show_icons=true&locale=en&layout=pie" alt="JawherKl"/></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en" alt="JawherKl"/></p>
   <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JawherKl" alt="JawherKl"/></a></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JawherKl" alt="JawherKl"/></p>

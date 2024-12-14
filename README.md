@@ -23,6 +23,7 @@ I'm a passionate full-stack developer with over 2 years of hands-on experience, 
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en" alt="JawherKl"/>
   </p>
+
   <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=JawherKl" alt="JawherKl"/>
   </p>

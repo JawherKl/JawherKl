@@ -26,6 +26,7 @@ I'm a passionate full-stack developer with over 2 years of hands-on experience, 
   <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=JawherKl" alt="JawherKl"/>
   </p>
+
   <p aligne="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawherKl" alt="JawherKl">
   </p>

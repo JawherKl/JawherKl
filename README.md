@@ -26,19 +26,15 @@ I'm a passionate full-stack developer with over 2 years of hands-on experience, 
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en" alt="JawherKl"/>
   </p>
-
   <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=JawherKl" alt="JawherKl"/>
   </p>
-
   <p aligne="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawherKl" alt="JawherKl">
   </p>
-
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph/?username=JawherKl&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
   </p>
-
   <p>
     📫 Let's connect and build something      amazing together!
   </p>

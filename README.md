@@ -1,12 +1,20 @@
-# Hi there 👋
+<img align="left"  src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
+<h1 align="center">Hi there<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px"> I'm Jawher </h1>
+<br><br><br>
+<p align="left">
+
+  
 ![Full Stack Developer](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=blueviolet&style=flat" alt="JawherKl" />
 </p>
 
-I'm a passionate full-stack developer with over 2 years of hands-on experience, specializing in widely acclaimed frameworks such as Angular, Spring Boot, Node.js, Symfony, Go and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.
+<p aligne="left">
+  I'm a passionate full-stack developer with over 2 years of hands-on experience, specializing in widely acclaimed frameworks such as Angular, Spring Boot, Node.js, Symfony, Go and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.
+</p>
 <details open>
   <summary><h2>🌟 Skills and expertise</h2></summary>
   

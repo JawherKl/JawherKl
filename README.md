@@ -15,7 +15,7 @@
 <p aligne="left">
   I'm a passionate full-stack developer with over 2 years of hands-on experience, specializing in widely acclaimed frameworks such as Angular, Spring Boot, Node.js, Symfony, Go and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.
 </p>
-<details open>
+<!--<details open>-->
   <summary><h2>🌟 Skills and expertise</h2></summary>
   
   - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap, JavaScript, TypeScript
@@ -26,8 +26,8 @@
   ![devTools](devTools.png)
 
 💡 I thrive on challenges and enjoy learning new technologies to solve complex problems. I'm always eager to collaborate on exciting projects and contribute to the tech community.
-</details>
-<h2>🔭 My github stats</h2>
+<!--</details>-->
+<summary><h2>🔭 My github stats</h2></summary>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JawherKl&show_icons=true&locale=en&layout=compact" alt="JawherKl"/>
   </p>

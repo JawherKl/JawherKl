@@ -23,7 +23,7 @@
     - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite
     - **Tools:** Git, Docker, K8s, Jenkins, Lens, Argodb, Kafka, Redis, Portainer, ELK Stack, Grafana, Graylog, Prometheus, Apache Hadoop
   
-    ![devTools](devTools.png)
+  ![devTools](devTools.png)
   
   💡 I thrive on challenges and enjoy learning new technologies to solve complex problems. I'm always eager to collaborate on exciting projects and contribute to the tech community.
   </p>

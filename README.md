@@ -15,16 +15,15 @@
 </p>
 
 <summary><h2>🌟 Skills and expertise</h2></summary>
-  <p>
-    - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap, JavaScript, TypeScript
-    - **Backend:** Node.js, Go, Symfony, Spring Boot, Quarkus
-    - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite
-    - **Tools:** Git, Docker, K8s, Jenkins, Lens, Argodb, Kafka, Redis, Portainer, ELK Stack, Grafana, Graylog, Prometheus, Apache Hadoop
+
+  - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap, JavaScript, TypeScript<br>
+  - **Backend:** Node.js, Go, Symfony, Spring Boot, Quarkus<br>
+  - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite<br>
+  - **Tools:** Git, Docker, K8s, Jenkins, Lens, Argodb, Kafka, Redis, Portainer, ELK Stack, Grafana, Graylog, Prometheus, Apache Hadoop
   
   ![devTools](devTools.png)
   
   💡 I thrive on challenges and enjoy learning new technologies to solve complex problems. I'm always eager to collaborate on exciting projects and contribute to the tech community.
-  </p>
   
 <summary><h2>🔭 My github stats</h2></summary>
   <p align="center">
@@ -35,7 +34,7 @@
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawherKl&theme=light&hide_border=true&border_radius=5.3&card_width=860" alt="JawherKl">
     <br><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=JawherKl&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=JawherKl&bg_color=RRGGBBAA&title_color=58e8f9&color=00f0bd&line=58e8f9&point=DEDEDE&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
   </p>
   
   <p align="center">📫 Let's connect and build something amazing together!</p>

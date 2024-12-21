@@ -38,7 +38,7 @@
   </p>
   
   <p aligne="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawherKl&theme=light&hide_border=true&border_radius=5.3&card_width=880" alt="JawherKl">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawherKl&theme=light&hide_border=true&border_radius=5.3&card_width=860" alt="JawherKl">
   </p>
   
   <p align="center">

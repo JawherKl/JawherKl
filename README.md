@@ -40,7 +40,7 @@
   </p>
   
   <p aligne="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawherKl" alt="JawherKl">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawherKl&theme=light&hide_border=true&border_radius=5.3&card_width=900" alt="JawherKl">
   </p>
   
   <p align="center">
@@ -48,5 +48,5 @@
   </p>
   
   <p>
-    📫 Let's connect and build something      amazing together!
+    📫 Let's connect and build something amazing together!
   </p>

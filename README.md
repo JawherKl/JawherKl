@@ -27,7 +27,7 @@
   
 <summary><h2>🔭 My github stats</h2></summary>
   <p align="center">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=JawherKl&show_icons=true&locale=en&layout=compact&theme=light&border_radius=5&card_width=360" alt="JawherKl"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JawherKl&show_icons=true&locale=en&layout=compact&theme=light&border_radius=5&card_width=360" alt="JawherKl"/>
     <img src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en" alt="JawherKl"/>
     <br><br>
     <img src="https://github-profile-trophy.vercel.app/?username=JawherKl" alt="JawherKl"/>

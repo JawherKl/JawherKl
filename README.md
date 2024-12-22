@@ -1,5 +1,6 @@
 <h1 align="center">
- Hi there,<img src="wave.gif" height="60px"> I'm Jawher </h1>
+ Hi there<img src="wave.gif" height="60px">, I'm Jawher
+</h1>
 
 <p align="left">
   

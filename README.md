@@ -42,5 +42,5 @@
   <p align="center">📫 Let's connect and build something amazing together!</p>
   
   <p align="center">
-   <a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=5ws" width="652" alt="jawher's Dev Card"/></a>
+   <a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=g7b" width="652" alt="jawher's Dev Card"/></a>
   </p>

@@ -3,7 +3,9 @@
 </h1>
 
 <p align="left">
-  ![Full Stack Developer](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
+ 
+  <img src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" alt="Full_Stack_Developer" />
+  
 </p>
 
 <p align="left">

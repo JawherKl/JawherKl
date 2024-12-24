@@ -3,9 +3,7 @@
 </h1>
 
 <p align="left">
-  
   ![Full Stack Developer](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
-
 </p>
 
 <p align="left">

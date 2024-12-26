@@ -33,12 +33,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=JawherKl" alt="JawherKl"/>
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawherKl&theme=light&hide_border=true&border_radius=5.3&card_width=860" alt="JawherKl">
-    <br><br>
+    <br>
     <img src="https://github-readme-activity-graph.vercel.app/graph/?username=JawherKl&bg_color=RRGGBBAA&title_color=58e8f9&color=00f0bd&line=58e8f9&point=DEDEDE&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
-  </p>
-  
-  <p align="center">📫 Let's connect and build something amazing together!</p>
-  
-  <p align="center">
+   <p align="center">📫 Let's connect and build something amazing together!</p>
+   <p align="center">
    <a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=g7b" width="652" alt="jawher's Dev Card"/></a>
+   </p>
   </p>

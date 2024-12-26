@@ -3,9 +3,7 @@
 </h1>
 
 <p align="left">
- 
   <img src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" alt="Full_Stack_Developer" />
-  
 </p>
 
 <p align="left">

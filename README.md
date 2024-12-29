@@ -2,12 +2,6 @@
  Hi there<img src="wave.gif" height="60px"> I'm Jawher
 </h1>
 
-<!--
-<p align="left">
-  <img src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" alt="Full_Stack_Developer" />
-</p>
--->
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=blueviolet&style=flat" alt="JawherKl" />
 </p>

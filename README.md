@@ -23,7 +23,7 @@
   
 <summary><h2>🔭 My github stats</h2></summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawherKl&layout=compact&theme=buefy&hide_border=true&langs_count=20" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawherKl&layout=compact&theme=buefy&hide_border=true&langs_count=20" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage" alt="JawherKl"/>
     <br><br>
     <img src="https://github-profile-trophy.vercel.app/?username=JawherKl" alt="JawherKl"/>

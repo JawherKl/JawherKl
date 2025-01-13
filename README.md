@@ -15,7 +15,7 @@
   - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap, JavaScript, TypeScript<br>
   - **Backend:** Node.js, Go, Symfony, Spring Boot, Quarkus<br>
   - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite<br>
-  - **Tools:** Git, Docker, K8s, Jenkins, Lens, Argodb, Kafka, Redis, Portainer, ELK Stack, Grafana, Graylog, Prometheus, Apache Hadoop
+  - **Tools:** Git, Docker, K8s, Jenkins, Lens, Argodb, Kafka, Redis, Portainer, ELK Stack, Grafana, Graylog, Prometheus, Hadoop
   
   ![devTools](devTools.png)
   

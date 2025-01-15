@@ -23,14 +23,14 @@
   
 <summary><h2>🔭 My github stats</h2></summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawherKl&layout=compact&theme=buefy&hide_border=true&langs_count=20" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage" alt="JawherKl"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawherKl&layout=compact&theme=algolia&langs_count=20" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" alt="JawherKl"/>
     <br><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=JawherKl" alt="JawherKl"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=JawherKl&theme=algolia&column=5&margin-w=15&margin-h=15" alt="JawherKl"/>
     <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawherKl&theme=light&hide_border=true&border_radius=5.3&card_width=860" alt="JawherKl"/>
+    <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=JawherKl&theme=algolia&card_width=860" alt="JawherKl"/>
     <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=JawherKl&bg_color=RRGGBBAA&title_color=58e8f9&color=00f0bd&line=58e8f9&point=DEDEDE&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=JawherKl&bg_color=RRGGBBAA&title_color=00aeff&color=00aeff&line=00aeff&point=2ddc97&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
    <p align="center">📫 Let's connect and build something amazing together!</p>
    <p align="center">
    <a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=g7b" width="652" alt="jawher's Dev Card"/></a>

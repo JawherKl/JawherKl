@@ -39,7 +39,6 @@
   </p>
  </details>
 
- 
 <!--
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 https://my-stats-43gk.vercel.app/api?username=JawherKl&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150

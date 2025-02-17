@@ -7,11 +7,19 @@
 </p>
 
 <p aligne="left">
-  I'm a passionate full-stack developer with over 2 years of hands-on experience, specializing in widely acclaimed technologies such as Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.
+Welcome to my GitHub profile! I'm a passionate Full-Stack developer with over 2 years of hands-on experience, specializing in widely acclaimed technologies such as Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.
 </p>
 
 <details open>
-<summary><h2>🌟 Skills and expertise</h2></summary>
+<summary><h2>🌟 About Me</h2></summary>
+ 
+  - 💻 I specialize in JS, PHP and Java, but I enjoy exploring other technologies and languages as well.
+  - 🚀 I'm always eager to learn new things and take on new challenges.
+  - 🎓 I believe in the power of knowledge-sharing and open source.
+</details>
+
+<details open>
+<summary><h2>🛠️ Skills and expertise</h2></summary>
 
   - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap, JavaScript, TypeScript<br>
   - **Backend:** Node.js, Go, Symfony, Spring Boot, Quarkus<br>

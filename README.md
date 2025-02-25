@@ -45,6 +45,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack developer with over 2 
    <a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=g7b" width="652" alt="jawher's Dev Card"/>
    <p align="center">📫 Let's connect and build something amazing together!</p>
   </p>
+  <!--<img src="open-source.png" alt="devTools"/>-->
  </details>
 
 <!--

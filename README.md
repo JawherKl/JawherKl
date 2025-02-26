@@ -54,3 +54,4 @@ https://my-stats-43gk.vercel.app/api?username=JawherKl&show_icons=true&theme=rad
 https://my-stats-43gk.vercel.app/api/top-langs/?username=JawherKl&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150
 https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=JawherKl&theme=radical
 -->
+

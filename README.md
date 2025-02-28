@@ -45,9 +45,9 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack developer with over 2 
    <a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=g7b" width="652" alt="jawher's Dev Card"/>
    <p align="center">📫 Let's connect and build something amazing together!</p>
   </p>
-  <!--<img src="open-source.png" alt="devTools"/>-->
  </details>
 
+  <!--<img src="open-source.png" alt="open-source"/>-->
 <!--
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 https://my-stats-43gk.vercel.app/api?username=JawherKl&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150

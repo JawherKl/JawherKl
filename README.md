@@ -49,6 +49,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack developer with over 2 
 
 <!--<img src="open-source.png" alt="open-source"/>-->
 <!--
+learning to debug and reverse engineering.
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 https://my-stats-43gk.vercel.app/api?username=JawherKl&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150
 https://my-stats-43gk.vercel.app/api/top-langs/?username=JawherKl&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150

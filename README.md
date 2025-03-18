@@ -1,5 +1,5 @@
 <h1 align="center">
- Hi there,<img src="wave.gif" height="50px"> I'm Jawher
+ Hi there,<img src="assets/wave.gif" height="50px"> I'm Jawher
 </h1>
 
 <p align="left">
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
   - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite<br>
   - **Tools:** Git, Docker, K8s, Jenkins, Lens, Argodb, Kafka, Redis, Portainer, ELK Stack, Grafana, Graylog, Prometheus, Hadoop
 
-<img src="devTools.png" alt="devTools"/>
+<img src="assets/devTools.png" alt="devTools"/>
 <br><br>
 💡 I thrive on challenges and enjoy learning new technologies to solve complex problems. I'm always eager to collaborate on exciting projects and contribute to the tech community.
  </details>
@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 <p align="center">
   <i>&copy; <a href="https://github.com/JawherKl/">JawherKl </a> 2024 - Present</i><br>
   <i>Licensed under <a href="https://github.com/JawherKl/JawherKl/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
-  <a href="https://octodex.github.com/swagtocat/"><img src="https://github.com/user-attachments/assets/c353ae3c-c629-4118-a2f2-dc4432a04e0e" width="60" height="60" /></a><br>
+  <a href="https://octodex.github.com/swagtocat/"><img src="assets/swagtocat.png" width="60" height="60" /></a><br>
   <kbd>Thanks for visiting 🙂</kbd>
 </p>
 </details>

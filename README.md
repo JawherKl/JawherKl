@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 <p align="center">
   <i>&copy; <a href="https://github.com/JawherKl/">JawherKl </a> 2024 - Present</i><br>
   <i>Licensed under <a href="https://github.com/JawherKl/JawherKl/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
-  <a href="https://github.com/TheHamsterBot"><img src="https://github.com/user-attachments/assets/c353ae3c-c629-4118-a2f2-dc4432a04e0e" width="60" height="60" /></a><br>
+  <a href="https://octodex.github.com/swagtocat/"><img src="https://github.com/user-attachments/assets/c353ae3c-c629-4118-a2f2-dc4432a04e0e" width="60" height="60" /></a><br>
   <kbd>Thanks for visiting 🙂</kbd>
 </p>
 </details>

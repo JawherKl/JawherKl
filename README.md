@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
    <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=JawherKl&theme=algolia&card_width=800" alt="JawherKl"/>
    <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=JawherKl&bg_color=RRGGBBAA&title_color=00aeff&color=00aeff&line=00aeff&point=2ddc97&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
-   <a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=g7b" width="652" alt="jawher's Dev Card"/>
+   <a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=5q2" width="652" alt="jawher's Dev Card"/></a>
    <p align="center">📫 Let's connect and build something amazing together!</p>
   </p>
  </details>

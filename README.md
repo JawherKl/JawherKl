@@ -21,10 +21,12 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 <details close>
 <summary><h2>🛠️ Skills and expertise</h2></summary>
 
-  - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap, JavaScript, TypeScript<br>
-  - **Backend:** Node.js, Go, Symfony, Spring Boot, Quarkus<br>
-  - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite<br>
-  - **Tools:** Git, Docker, K8s, Jenkins, Lens, Argodb, Kafka, Redis, Portainer, ELK Stack, Grafana, Graylog, Prometheus, Hadoop
+  - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap, React, Android Studio, Flutter.
+  - **Backend:** Node.js, Go, Symfony, Spring Boot, Quarkus.
+  - **Programming Languages:** Java, PHP, JavaScript, TypeScript, Python, Go.
+  - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite.
+  - **Tools:** Git, Docker, K8s, Jenkins, Lens, Kafka, Argocd, Redis, Portainer, ELK Stack, Grafana, Graylog, Prometheus, Hadoop.
+  - **Languages:** English, French, Arabic.
 
 <img src="assets/devTools.png" alt="devTools"/>
 <br><br>

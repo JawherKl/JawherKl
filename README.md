@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 
   - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap, React, Android Studio, Flutter.
   - **Backend:** Node.js, Go, Symfony, Spring Boot, Quarkus.
-  - **Programming Languages:** Java, PHP, JavaScript, TypeScript, Python, Go.
+  - **Programming Languages:** Java, PHP, JavaScript, TypeScript, Python, Go, C++.
   - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite.
   - **Tools:** Git, Docker, K8s, Jenkins, Lens, Kafka, Argocd, Redis, Portainer, ELK Stack, Grafana, Graylog, Prometheus, Hadoop.
   - **Languages:** English, French, Arabic.

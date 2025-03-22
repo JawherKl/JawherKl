@@ -10,7 +10,7 @@
 Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-source contributor with over 2 years of hands-on experience, specializing in widely acclaimed technologies such as Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.
 </p>
 
-<details open>
+<details close>
 <summary><h2>🌟 About Me</h2></summary>
  
   - 💻 I specialize in JS, PHP and Java, but I enjoy exploring other technologies and languages as well.
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
   - 🎓 I believe in the power of knowledge-sharing and open source.
 </details>
 
-<details open>
+<details close>
 <summary><h2>🛠️ Skills and expertise</h2></summary>
 
   - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap, JavaScript, TypeScript<br>
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 💡 I thrive on challenges and enjoy learning new technologies to solve complex problems. I'm always eager to collaborate on exciting projects and contribute to the tech community.
  </details>
  
-<details open>
+<details close>
 <summary><h2>🔭 My github stats</h2></summary>
   <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawherKl&layout=compact&theme=algolia&langs_count=20" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;

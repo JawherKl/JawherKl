@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 <details close>
 <summary><h2>🛠️ Skills and expertise</h2></summary>
 
-  - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap, React, Android Studio, Flutter.
-  - **Backend:** Node.js, Go, Symfony, Spring Boot, Quarkus.
-  - **Programming Languages:** Java, PHP, JavaScript, TypeScript, Python, Go, C++.
-  - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite.
-  - **Tools:** Git, Docker, K8s, Jenkins, Lens, Kafka, Argocd, Redis, Portainer, ELK Stack, Grafana, Graylog, Prometheus, Hadoop.
+  - **Backend:** Node.js, Express.js, NestJS, Go, Symfony.
+  - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap.
+  - **Programming Languages:** JavaScript, TypeScript, Php, Python, Go, C++.
+  - **Databases:** PostgreSQL, MySQL, MongoDB, Firebase, SQLite.
+  - **Tools:** Git, Docker, K8s, Jenkins, Lens, Kafka, Redis, Argocd, Portainer, ELK-Stack, Grafana, Graylog, Prometheus.
   - **Languages:** English, French, Arabic.
 
 <img src="assets/devTools.png" alt="devTools"/>
@@ -70,7 +70,7 @@ https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/
 -ExpressJS, NestJs with TS or JS
 -Symfony, Laravel with PHP
 -Golang
--Angular16,17 and 18 with TS
+-Angular with TS
 -DevOps and DevSecOps
--ML and LLM study-case
+-LLM study-case
 -->

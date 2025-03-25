@@ -72,5 +72,5 @@ https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/
 -Golang
 -Angular with TS
 -DevOps and DevSecOps
--LLM study-case
+-LLM study case
 -->

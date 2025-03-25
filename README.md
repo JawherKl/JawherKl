@@ -49,6 +49,30 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
   </p>
  </details>
 
+<details close>
+ <summary><h2>🚀 Technologies & Projects</h2></summary>
+ I specialize in building scalable applications, backend services, and DevOps solutions using a variety of modern technologies. Here’s a breakdown of my expertise and related repositories: 
+ 
+ #### **💻 Backend Development:**  
+ - **Node.js, Express.js, and NestJS** – Crafting efficient and scalable RESTful & GraphQL APIs.  
+ - **Go (Golang)** – Building high-performance backend services.  
+ - **Symfony** – Developing robust web applications using PHP.  
+ 
+ #### **🎨 Frontend Development:**  
+ - **Angular** – Creating dynamic and interactive web applications.  
+ 
+ #### **☁️ DevOps & Cloud:**  
+ - **Kubernetes, Docker, ArgoCD, Jenkins** – Managing CI/CD pipelines and containerized applications.  
+ - **Kafka, Redis, ELK-Stack, Prometheus, Grafana** – Ensuring observability and high availability.  
+ 
+ #### **🤖 AI & Large Language Models (LLM):**  
+ - Experimenting with **LLMs** for AI-driven applications.  
+ - Implementing **ML and AI-based solutions** using Python and cloud services.  
+ 
+ 💡 **Explore my repositories** to see projects leveraging these technologies!  
+
+</details>
+
 ***
 
 <p align="center">
@@ -57,20 +81,8 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
   <a href="https://octodex.github.com/swagtocat/"><img src="assets/swagtocat.png" width="60" height="60" /></a><br>
   <kbd>Thanks for visiting 🙂</kbd>
 </p>
-</details>
 
-
-<!--<img src="open-source.png" alt="open-source"/>-->
 <!--
-learning to debug and reverse engineering.
+learning to debug and reverse engineer.
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-https://my-stats-43gk.vercel.app/api?username=JawherKl&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150
-https://my-stats-43gk.vercel.app/api/top-langs/?username=JawherKl&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150
-https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=JawherKl&theme=radical
--ExpressJS, NestJs with TS or JS
--Symfony, Laravel with PHP
--Golang
--Angular with TS
--DevOps and DevSecOps
--LLM study case
 -->

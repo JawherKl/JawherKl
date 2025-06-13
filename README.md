@@ -7,13 +7,13 @@
 </p>
 
 <p aligne="left">
-Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-source contributor with over 2 years of hands-on experience, specializing in widely acclaimed technologies such as Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.
+Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-source contributor with over 5 years of experience, specialising in widely acclaimed technologies such as Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.
 </p>
 
 <details close>
 <summary><h2>🌟 About Me</h2></summary>
  
-  - 💻 I specialize in JS, PHP and Java, but I enjoy exploring other technologies and languages as well.
+  - 💻 I specialise in JS, PHP and Java, but I also enjoy exploring other technologies and languages.
   - 🚀 I'm always eager to learn new things and take on new challenges.
   - 🎓 I believe in the power of knowledge-sharing and open source.
 </details>
@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 
   - **Backend:** Node.js, Express.js, NestJS, Go, Symfony.
   - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap.
-  - **Programming Languages:** JavaScript, TypeScript, Php, Python, Go, C++.
+  - **Programming Languages:** JavaScript, TypeScript, PHP, Python, Go, C++.
   - **Databases:** PostgreSQL, MySQL, MongoDB, Firebase, SQLite.
-  - **Tools:** Git, Docker, K8s, Jenkins, Lens, Kafka, Redis, Argocd, Portainer, ELK-Stack, Grafana, Graylog, Prometheus.
+  - **Tools:** Git, Docker, K8S, Jenkins, Lens, Kafka, Redis, Argocd, Portainer, ELK-Stack, Grafana, Graylog, Prometheus.
   - **Languages:** English, French, Arabic.
 
 <img src="assets/devTools.png" alt="devTools"/>
@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 
 <details close>
  <summary><h2>🚀 Technologies & Projects</h2></summary>
- I specialize in building scalable applications, backend services, and DevOps solutions using a variety of modern technologies.
+ I specialise in building scalable applications, backend services, and DevOps solutions using various modern technologies.
  
  #### **💻 Backend Development:**  
  - **Node.js, Express.js, and NestJS** – Crafting efficient and scalable RESTful & GraphQL APIs.  

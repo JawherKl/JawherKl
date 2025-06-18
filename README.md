@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
   - **Programming Languages:** JavaScript, TypeScript, PHP, Python, Go, C++.
   - **Databases:** PostgreSQL, MySQL, MongoDB, Firebase, SQLite.
   - **Tools:** Git, Docker, K8S, Jenkins, Lens, Kafka, Redis, Argocd, Portainer, ELK-Stack, Grafana, Graylog, Prometheus.
-  - **Languages:** English, French, Arabic.
+  - **Languages:** English, French, German, Italian and Arabic.
 
 <img src="assets/devTools.png" alt="devTools"/>
 <br><br>

@@ -79,6 +79,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
   <i>&copy; <a href="https://github.com/JawherKl/">JawherKl </a> 2024 - Present</i><br>
   <i>Licensed under <a href="https://github.com/JawherKl/JawherKl/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
   <a href="https://octodex.github.com/swagtocat/"><img src="assets/swagtocat.png" width="60" height="60" /></a><br>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jawherkl)<br>
   <kbd>Thanks for visiting 🙂</kbd>
 </p>
 

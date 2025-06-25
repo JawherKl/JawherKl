@@ -73,7 +73,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 
 </details>
 
-![](https://github-contributor-stats.vercel.app/api?username=jawherkl&limit=22&theme=nightowl&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=jawherkl&limit=10&theme=nightowl&combine_all_yearly_contributions=true)
 
 ---
 <!--

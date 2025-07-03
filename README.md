@@ -2,17 +2,23 @@
  Hi there,<img src="assets/wave.gif" height="50px"> I'm Jawher
 </h1>
 
-<p>
- <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=084777&style=flat" alt="JawherKl" />
- </p>
- <p align="center">
-  <img src="https://user-badge.committers.top/tunisia_public/JawherKl.svg">
- </p>
- <p align="right">
-  <img src="https://user-badge.committers.top/tunisia_private/JawherKl.svg">
- </p>
+<p align="left" width="33%">
+      <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=084777&style=flat" alt="JawherKl" />
 </p>
+<!--<table width="100%">
+  <tr>
+    <td align="left" width="33%">
+      <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=084777&style=flat" alt="JawherKl" />
+    </td>
+    <td align="center" width="34%">
+      <img src="https://user-badge.committers.top/tunisia_public/JawherKl.svg">
+    </td>
+    <td align="right" width="33%">
+      <img src="https://user-badge.committers.top/tunisia_private/JawherKl.svg">
+    </td>
+  </tr>
+</table>
+-->
 
 <p aligne="left">
 Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-source contributor with over 2 years of experience, specialising in widely acclaimed technologies such as Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.

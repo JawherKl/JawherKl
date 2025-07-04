@@ -61,8 +61,8 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
    <br><br>
    <img src="./profile-3d-contrib/profile-3d-contrib.svg" alt="JawherKl"/>
    <br><br>
-   <img src="https://github-contributor-stats.vercel.app/api?username=jawherkl&limit=10&theme=nightowl&combine_all_yearly_contributions=true" alt="JawherKl"/>
-   <br><br>
+   <!--<img src="https://github-contributor-stats.vercel.app/api?username=jawherkl&limit=10&theme=nightowl&combine_all_yearly_contributions=true" alt="JawherKl"/>
+   <br><br>-->
    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=JawherKl&bg_color=RRGGBBAA&title_color=00aeff&color=00aeff&line=00aeff&point=2ddc97&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
    <a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=5q2" width="652" alt="jawher's Dev Card"/></a>
    <p align="center">📫 Let's connect and build something amazing together!</p>

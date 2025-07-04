@@ -1,0 +1,34 @@
+name: Cleanup Successful Workflow Runs
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: List Workflow Runs
+        id: list-runs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -s -H "Authorization: token $GITHUB_TOKEN" \
+          "https://api.github.com/repos/${{ github.repository }}/actions/runs?status=success" \
+          > runs.json
+          echo "::set-output name=run_ids::$(jq -c '[.workflow_runs[].id]' runs.json)"
+
+      - name: Delete Workflow Runs
+        if: steps.list-runs.outputs.run_ids != '[]'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for id in $(echo ${{ steps.list-runs.outputs.run_ids }} | jq -r '.[]'); do
+            curl -X DELETE -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/runs/$id"
+          done

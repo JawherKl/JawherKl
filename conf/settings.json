@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-3d-contrib.svg",
+  "backgroundColor": "none",
+  "foregroundColor": "#006aff",
+  "strongColor": "#006aff",
+  "weakColor": "gray",
+  "radarColor": "#47a042",
+  "growingAnimation": true,
+  "contribColors": [
+    "#193C82",
+    "#195AD2",
+    "#1978DC",
+    "#1996E6",
+    "#19a5f0"
+  ]
+}

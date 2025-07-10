@@ -10,14 +10,14 @@
 
 <table width="100%">
   <tr>
-    <td align="right" width="60%">
-      [🇬🇧 Passa all'Inglese](README.md)
+    <td align="right" width="33%">
+        <a href="README.md">🇬🇧 Passa all'Inglese</a>
     </td>
-    <td align="left" width="60%">
-      [🇫🇷 Passa al Francese](README_fr.md)
+    <td align="left" width="34%">
+      <a href="README_fr.md">🇫🇷 Passa al Francese</a>
     </td>
-    <td align="center" width="60%">
-      [🇩🇪 Wechsel zu Deutsch](README_de.md)
+    <td align="center" width="33%">
+      <a href="README_de.md">🇩🇪 Wechsel zu Deutsch</a>
     </td>
   </tr>
 </table>

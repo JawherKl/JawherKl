@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=0785fb&vCenter=true&random=false&width=500&height=30&lines=Bonjour+%2C+je+suis+Jawher+%F0%9F%91%8B%F0%9F%8F%BB;Ingénieur+logiciel+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Contributeur+open+source+%F0%9F%9A%A9" alt="Bannière de jawherkl" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=0785fb&vCenter=true&random=false&width=500&height=30&lines=Bonjour+%2C+je+suis+Jawher+%F0%9F%91%8B%F0%9F%8F%BB;Ingenieur+logiciel+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Contributeur+open+source+%F0%9F%9A%A9" alt="Bannière de jawherkl" />
   </a>
 </h1>
 
@@ -8,15 +8,15 @@
 <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=084777&style=flat" alt="JawherKl" /> 
 </p>
 
-<table width="100%">
+<table>
     <tr>
-      <td align="left" width="33%">
+      <td align="center">
         <a href="README.md">🇬🇧 Passer en Anglais</a>
       </td>
-      <td align="center" width="34%">
+      <td align="center">
         <a href="README_de.md">🇩🇪 Passer en Allemand</a>
       </td>
-      <td align="right" width="33%">
+      <td align="center">
         <a href="README_it.md">🇮🇹 Passer en Italien</a>
       </td>
   </tr>

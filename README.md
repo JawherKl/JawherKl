@@ -7,20 +7,21 @@
 <p align="left" width="33%">
       <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=084777&style=flat" alt="JawherKl" />
 </p>
-<!--<table width="100%">
+
+<table width="100%">
   <tr>
-    <td align="left" width="33%">
-      <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=084777&style=flat" alt="JawherKl" />
+    <td align="left" width="60%">
+      [🇫🇷 Switch to French](README_fr.md)
     </td>
-    <td align="center" width="34%">
-      <img src="https://user-badge.committers.top/tunisia_public/JawherKl.svg">
+    <td align="center" width="60%">
+      [🇩🇪 Switch to Deutsch](README_de.md)
     </td>
-    <td align="right" width="33%">
-      <img src="https://user-badge.committers.top/tunisia_private/JawherKl.svg">
+    <td align="right" width="60%">
+      [🇮🇹 Switch to Italian](README_it.md)
     </td>
   </tr>
 </table>
--->
+
 
 <p aligne="left">
 Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-source contributor with over 2 years of experience, specialising in widely acclaimed technologies such as Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.
@@ -61,8 +62,6 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
    <br><br>
    <img src="./profile-3d-contrib/profile-3d-contrib.svg" alt="JawherKl"/>
    <br><br>
-   <!--<img src="https://github-contributor-stats.vercel.app/api?username=jawherkl&limit=10&theme=nightowl&combine_all_yearly_contributions=true" alt="JawherKl"/>
-   <br><br>-->
    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=JawherKl&bg_color=RRGGBBAA&title_color=00aeff&color=00aeff&line=00aeff&point=2ddc97&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
    <a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=5q2" width="652" alt="jawher's Dev Card"/></a>
    <p align="center">📫 Let's connect and build something amazing together!</p>
@@ -73,20 +72,20 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
  <summary><h2>🚀 Technologies & Projects</h2></summary>
  I specialise in building scalable applications, backend services, and DevOps solutions using various modern technologies.
  
- #### **💻 Backend Development (70%) :**  
+ #### **💻 Backend Development (70%):**  
  - **Node.js, Express.js, and NestJS** – Crafting efficient and scalable RESTful & GraphQL APIs.  
  - **Go (Golang)** – Building high-performance backend services.  
  - **Symfony** – Developing robust web applications using PHP.
  
- #### **☁️ DevOps & Cloud (15%) :**
+ #### **☁️ DevOps & Cloud (15%):**
  - **Kubernetes, Docker, ArgoCD, Jenkins** – Managing CI/CD pipelines and containerized applications.  
  - **Kafka, Redis, ELK-Stack, Prometheus, Grafana** – Ensuring observability and high availability.  
  
- #### **🤖 AI & Large Language Models (LLM) (10%) :**
+ #### **🤖 AI & Large Language Models (LLM) (10%):**
  - Experimenting with **LLMs** for AI-driven applications.  
  - Implementing **ML and AI-based solutions** using Python and cloud services.
  
- #### **🎨 Frontend Development (5%) :**
+ #### **🎨 Frontend Development (5%):**
  - **Angular** – Creating dynamic and interactive web applications.    
  
  💡 **Explore my repositories** to see projects leveraging these technologies!  
@@ -107,4 +106,8 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 learning to debug and reverse engineer.
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jawherkl)
+      <img src="https://user-badge.committers.top/tunisia_public/JawherKl.svg">
+      <img src="https://user-badge.committers.top/tunisia_private/JawherKl.svg">
+      <img src="https://github-contributor-stats.vercel.app/api?username=jawherkl&limit=10&theme=nightowl&combine_all_yearly_contributions=true" alt="JawherKl"/>
+      <br><br>
 -->

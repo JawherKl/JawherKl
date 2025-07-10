@@ -95,8 +95,8 @@ Mon parcours dans le monde de la programmation a été motivé par une profonde 
 ***
 
 <p align="center"> 
-  <i>&copy; <a href="https://github.com/JawherKl/"> JawherKl </a> 2024 - Présent 
-  <i> Sous licence <a href="https://github.com/JawherKl/JawherKl/tree/master/LICENSE"> Licence Publique Générale GNU Affero 
-  <a href="https://octodex.github.com/swagtocat/"> <img src="assets/swagtocat.png" width="60" height="60" /> </a><br> 
+  <i>&copy; <a href="https://github.com/JawherKl/"> JawherKl </a> 2024 - Présent </i><br>
+  <i> Sous licence <a href="https://github.com/JawherKl/JawherKl/tree/master/LICENSE"> Licence Publique Générale GNU</a></i><br>
+  <a href="https://octodex.github.com/swagtocat/"> <img src="assets/swagtocat.png" width="60" height="60" /></a><br> 
   <kbd>Merci de votre visite 🙂</kbd>
 </p>

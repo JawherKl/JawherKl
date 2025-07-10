@@ -93,8 +93,8 @@ Mein Weg in der Welt der Programmierung wurde von einer tiefen Neugier und dem W
 ***
 
 <p align="center"> 
-  <i>&copy; <a href="https://github.com/JawherKl/"> JawherKl </a> 2024 - Gegenwart 
-  <i> Lizenziert unter <a href="https://github.com/JawherKl/JawherKl/tree/master/LICENSE"> GNU Affero General Public License 
-  <a href="https://octodex.github.com/swagtocat/"> <img src="assets/swagtocat.png" width="60" height="60" /> </a><br> 
+  <i>&copy; <a href="https://github.com/JawherKl/"> JawherKl </a> 2024 - Gegenwart</i><br>
+  <i> Lizenziert unter <a href="https://github.com/JawherKl/JawherKl/tree/master/LICENSE"> GNU General Public License</a></i><br>
+  <a href="https://octodex.github.com/swagtocat/"> <img src="assets/swagtocat.png" width="60" height="60" /></a><br> 
     <kbd>Danke für deinen Besuch 🙂</kbd>
 </p>

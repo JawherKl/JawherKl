@@ -8,6 +8,20 @@
 <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=084777&style=flat" alt="JawherKl" /> 
 </p>
 
+<table width="100%">
+    <tr>
+    <td align="left" width="33%">
+      <a href="README.md">🇬🇧 Zu Englisch wechseln</a>
+    </td>
+    <td align="center" width="34%">
+      <a href="README_fr.md">🇫🇷 Zu Französisch wechseln</a>
+    </td>
+    <td align="right" width="33%">
+      <a href="README_it.md">🇮🇹 Zu Italienisch wechseln</a>
+    </td>
+  </tr>
+</table>
+
 Willkommen auf meinem GitHub-Profil! 
 Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher Full-Stack-Entwickler und Open-Source-Beitragender mit über 2 Jahren praktischer Erfahrung, spezialisiert auf weithin anerkannte Technologien wie Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go und DevOps. Meine Reise in der Welt der Programmierung wurde von einer tiefen Neugier und dem Wunsch angetrieben, effiziente, skalierbare und benutzerfreundliche Anwendungen zu erstellen. 
 Mein Weg in der Welt der Programmierung wurde von einer tiefen Neugier und dem Wunsch getrieben, effiziente, skalierbare und benutzerfreundliche Anwendungen zu erstellen.

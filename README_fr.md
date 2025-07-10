@@ -9,16 +9,16 @@
 </p>
 
 <table width="100%">
-  <tr>
-    <td align="left" width="60%">
-      [🇬🇧 Switch to English](README.md)
-    </td>
-    <td align="center" width="60%">
-      [🇩🇪 Switch to Deutsch](README_de.md)
-    </td>
-    <td align="right" width="60%">
-      [🇮🇹 Switch to Italian](README_it.md)
-    </td>
+    <tr>
+      <td align="left" width="33%">
+        <a href="README.md">🇬🇧 Passer en Anglais</a>
+      </td>
+      <td align="center" width="34%">
+        <a href="README_de.md">🇩🇪 Passer en Allemand</a>
+      </td>
+      <td align="right" width="33%">
+        <a href="README_it.md">🇮🇹 Passer en Italien</a>
+      </td>
   </tr>
 </table>
 

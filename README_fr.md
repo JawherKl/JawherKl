@@ -50,45 +50,45 @@ Mon parcours dans le monde de la programmation a été motivé par une profonde 
   </details> 
   
 <details close> 
-<h2>🔭 Mes statistiques GitHub</h2> 
-<p align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawherKl&layout=compact&theme=algolia&langs_count=20" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;
-   <img src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" alt="JawherKl"/>
-   <br><br>
-   <img src="https://github-profile-trophy.vercel.app/?username=JawherKl&theme=algolia&column=5&margin-w=15&margin-h=15" alt="JawherKl"/>
-   <br><br>
-   <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=JawherKl&theme=algolia&card_width=800" alt="JawherKl"/>
-   <br><br>
-   <img src="./profile-3d-contrib/profile-3d-contrib.svg" alt="JawherKl"/>
-   <br><br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=JawherKl&bg_color=RRGGBBAA&title_color=00aeff&color=00aeff&line=00aeff&point=2ddc97&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
-   <a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=5q2" width="652" alt="jawher's Dev Card"/></a>
-    <p align="center">📫 Connectons-nous et construisons quelque chose d'incroyable ensemble ! </p> 
-</p> 
+<summary><h2>🔭 Mes statistiques GitHub</h2></summary>
+  <p align="center"> 
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawherKl&layout=compact&theme=algolia&langs_count=20" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;
+     <img src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" alt="JawherKl"/>
+     <br><br>
+     <img src="https://github-profile-trophy.vercel.app/?username=JawherKl&theme=algolia&column=5&margin-w=15&margin-h=15" alt="JawherKl"/>
+     <br><br>
+     <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=JawherKl&theme=algolia&card_width=800" alt="JawherKl"/>
+     <br><br>
+     <img src="./profile-3d-contrib/profile-3d-contrib.svg" alt="JawherKl"/>
+     <br><br>
+     <img src="https://github-readme-activity-graph.vercel.app/graph/?username=JawherKl&bg_color=RRGGBBAA&title_color=00aeff&color=00aeff&line=00aeff&point=2ddc97&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
+     <a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=5q2" width="652" alt="jawher's Dev Card"/></a>
+      <p align="center">📫 Connectons-nous et construisons quelque chose d'incroyable ensemble ! </p> 
+  </p>
 </détails>
 
-<details close> 
+<details close>
 <summary><h2>🚀 Technologies & Projets</h2></summary> 
   Je me spécialise dans la création d'applications évolutives, de services backend et de solutions DevOps en utilisant une variété de technologies modernes. 
-  
-  #### **💻 Développement Backend (70%):** 
-- **Node.js, Express.js et NestJS** – Création d'API RESTful et GraphQL efficaces et évolutives. 
-  - **Go (Golang)** – Création de services backend haute performance. 
-  - **Symfony** – Développement d'applications web robustes en utilisant PHP. 
-
-  #### **☁️ DevOps et Cloud (15%):** 
-- **Kubernetes, Docker, ArgoCD, Jenkins** – Gestion des pipelines CI/CD et des applications conteneurisées. 
-  - **Kafka, Redis, ELK-Stack, Prometheus, Grafana** – Assurer l'observabilité et la haute disponibilité. 
-  
-  #### **🤖 IA et Grands Modèles de Langage (LLM) (10%):** 
-- Expérimenter avec les **LLMs** pour des applications pilotées par l'IA. 
-  - Mise en œuvre de **solutions basées sur le ML et l'IA** en utilisant Python et les services cloud. 
     
+  #### **💻 Développement Backend (70%):** 
+  - **Node.js, Express.js et NestJS** – Création d'API RESTful et GraphQL efficaces et évolutives. 
+    - **Go (Golang)** – Création de services backend haute performance. 
+    - **Symfony** – Développement d'applications web robustes en utilisant PHP. 
+  
+  #### **☁️ DevOps et Cloud (15%):** 
+  - **Kubernetes, Docker, ArgoCD, Jenkins** – Gestion des pipelines CI/CD et des applications conteneurisées. 
+    - **Kafka, Redis, ELK-Stack, Prometheus, Grafana** – Assurer l'observabilité et la haute disponibilité. 
+    
+  #### **🤖 IA et Grands Modèles de Langage (LLM) (10%):** 
+  - Expérimenter avec les **LLMs** pour des applications pilotées par l'IA. 
+    - Mise en œuvre de **solutions basées sur le ML et l'IA** en utilisant Python et les services cloud. 
+      
   #### **🎨 Développement Frontend (5%):** 
-- **Angular** – Création d'applications web dynamiques et interactives. 
-  
-  
-  💡 **Explorez mes dépôts** pour voir des projets utilisant ces technologies !
+  - **Angular** – Création d'applications web dynamiques et interactives. 
+    
+    
+    💡 **Explorez mes dépôts** pour voir des projets utilisant ces technologies !
 
 </détails>
 

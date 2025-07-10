@@ -23,7 +23,7 @@
 </table>
 
 Willkommen auf meinem GitHub-Profil! 
-Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher Full-Stack-Entwickler und Open-Source-Beitragender mit über 2 Jahren praktischer Erfahrung, spezialisiert auf weithin anerkannte Technologien wie Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go und DevOps. Meine Reise in der Welt der Programmierung wurde von einer tiefen Neugier und dem Wunsch angetrieben, effiziente, skalierbare und benutzerfreundliche Anwendungen zu erstellen. 
+Ich bin ein leidenschaftlicher Full-Stack-Entwickler und Open-Source-Beitragender mit über 2 Jahren praktischer Erfahrung, spezialisiert auf weithin anerkannte Technologien wie Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go und DevOps. Meine Reise in der Welt der Programmierung wurde von einer tiefen Neugier und dem Wunsch angetrieben, effiziente, skalierbare und benutzerfreundliche Anwendungen zu erstellen. 
 Mein Weg in der Welt der Programmierung wurde von einer tiefen Neugier und dem Wunsch getrieben, effiziente, skalierbare und benutzerfreundliche Anwendungen zu erstellen.
 
 <details close> 

@@ -28,9 +28,10 @@ Mein Weg in der Welt der Programmierung wurde von einer tiefen Neugier und dem W
 
 <details close> 
   <summary><h2>🌟 Über mich</h2></summary> 
-    - 💻 Ich spezialisiere mich auf JS, PHP und Java, aber ich erkunde auch gerne andere Technologien und Sprachen. 
-    - 🚀 Ich bin immer begierig darauf, neue Dinge zu lernen und neue Herausforderungen anzunehmen. 
-    - 🎓 Ich glaube an die Kraft des Wissensaustauschs und von Open Source. 
+
+  - 💻 Ich spezialisiere mich auf JS, PHP und Java, aber ich erkunde auch gerne andere Technologien und Sprachen. 
+  - 🚀 Ich bin immer begierig darauf, neue Dinge zu lernen und neue Herausforderungen anzunehmen. 
+  - 🎓 Ich glaube an die Kraft des Wissensaustauschs und von Open Source. 
 </details>
 
 <details close> 
@@ -97,8 +98,3 @@ Mein Weg in der Welt der Programmierung wurde von einer tiefen Neugier und dem W
   <a href="https://octodex.github.com/swagtocat/"> <img src="assets/swagtocat.png" width="60" height="60" /> </a><br> 
     <kbd>Danke für deinen Besuch 🙂</kbd>
 </p>
-
-<!-- 
-lernen, zu debuggen und zurückzuentwickeln. 
-dunkel, radikal, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, hochkontrast, dracula 
--->

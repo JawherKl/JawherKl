@@ -17,7 +17,7 @@
       <a href="README_fr.md">🇫🇷 Passa al Francese</a>
     </td>
     <td align="center">
-      <a href="README_de.md">🇩🇪 Wechsel zu Deutsch</a>
+      <a href="README_de.md">🇩🇪 Passa al Tedesco</a>
     </td>
   </tr>
 </table>

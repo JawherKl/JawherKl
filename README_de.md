@@ -8,15 +8,15 @@
 <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=084777&style=flat" alt="JawherKl" /> 
 </p>
 
-<table width="100%">
+<table>
     <tr>
-    <td align="left" width="33%">
+    <td align="center">
       <a href="README.md">🇬🇧 Zu Englisch wechseln</a>
     </td>
-    <td align="center" width="34%">
+    <td align="center">
       <a href="README_fr.md">🇫🇷 Zu Französisch wechseln</a>
     </td>
-    <td align="right" width="33%">
+    <td align="center">
       <a href="README_it.md">🇮🇹 Zu Italienisch wechseln</a>
     </td>
   </tr>

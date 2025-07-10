@@ -27,78 +27,77 @@ Bienvenue sur mon profil GitHub ! Je suis un ingénieur Full-Stack passionné et
 Mon parcours dans le monde de la programmation a été motivé par une profonde curiosité et un désir de créer des applications efficaces, évolutives et conviviales.
 
 <details close> 
-<summary><h2>🌟 À propos de moi</h2></summary> 
-  
-   - 💻 Je me spécialise en JS, PHP et Java, mais j'aime aussi explorer d'autres technologies et langages. 
-   - 🚀 Je suis toujours désireux d'apprendre de nouvelles choses et de relever de nouveaux défis. Je suis toujours désireux d'apprendre de nouvelles choses et de relever de nouveaux défis. 
-   - 🎓 Je crois au pouvoir du partage de connaissances et de l'open source. 
+  <summary><h2>🌟 À propos de moi</h2></summary>
+    - 💻 Je me spécialise en JS, PHP et Java, mais j'aime aussi explorer d'autres technologies et langages. 
+    - 🚀 Je suis toujours désireux d'apprendre de nouvelles choses et de relever de nouveaux défis. Je suis toujours désireux d'apprendre de nouvelles choses et de relever de nouveaux défis. 
+    - 🎓 Je crois au pouvoir du partage de connaissances et de l'open source. 
 </details>
 
 <details close> 
-<summary><h2>🛠️ Compétences et expertise</h2></summary>
+  <summary><h2>🛠️ Compétences et expertise</h2></summary>
 
-- **Backend :** Node.js, Express.js, NestJS, Go, Symfony. 
-   - **Frontend :** Angular, HTML, SCSS, CSS, Bootstrap. 
-   - **Langages de programmation :** JavaScript, TypeScript, Php, Python, Go, C++. 
-   - **Bases de données :** PostgreSQL, MySQL, MongoDB, Firebase, SQLite. 
-   - **Outils :** Git, Docker, K8s, Jenkins, Lens, Kafka, Redis, Argocd, Portainer, ELK-Stack, Grafana, Graylog, Prometheus. 
-   - **Langues :** Anglais, Français, Arabe.
+  - **Backend :** Node.js, Express.js, NestJS, Go, Symfony. 
+    - **Frontend :** Angular, HTML, SCSS, CSS, Bootstrap. 
+    - **Langages de programmation :** JavaScript, TypeScript, Php, Python, Go, C++. 
+    - **Bases de données :** PostgreSQL, MySQL, MongoDB, Firebase, SQLite. 
+    - **Outils :** Git, Docker, K8s, Jenkins, Lens, Kafka, Redis, Argocd, Portainer, ELK-Stack, Grafana, Graylog, Prometheus. 
+    - **Langues :** Anglais, Français, Arabe.
 
-<img src="assets/devTools.png" alt="devTools"/> 
-<br><br> 
-💡 Je m'épanouis dans les défis et j'aime apprendre de nouvelles technologies pour résoudre des problèmes complexes. Je m'épanouis face aux défis et j'aime apprendre de nouvelles technologies pour résoudre des problèmes complexes. Je suis toujours désireux de collaborer sur des projets passionnants et de contribuer à la communauté technologique. 
-  </details> 
+  <img src="assets/devTools.png" alt="devTools"/> 
+  <br><br> 
+  💡 Je m'épanouis dans les défis et j'aime apprendre de nouvelles technologies pour résoudre des problèmes complexes. Je m'épanouis face aux défis et j'aime apprendre de nouvelles technologies pour résoudre des problèmes complexes. Je suis toujours désireux de collaborer sur des projets passionnants et de contribuer à la communauté technologique. 
+</details> 
   
 <details close> 
-<summary><h2>🔭 Mes statistiques GitHub</h2></summary>
+  <summary><h2>🔭 Mes statistiques GitHub</h2></summary>
   <p align="center"> 
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawherKl&layout=compact&theme=algolia&langs_count=20" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;
-     <img src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" alt="JawherKl"/>
-     <br><br>
-     <img src="https://github-profile-trophy.vercel.app/?username=JawherKl&theme=algolia&column=5&margin-w=15&margin-h=15" alt="JawherKl"/>
-     <br><br>
-     <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=JawherKl&theme=algolia&card_width=800" alt="JawherKl"/>
-     <br><br>
-     <img src="./profile-3d-contrib/profile-3d-contrib.svg" alt="JawherKl"/>
-     <br><br>
-     <img src="https://github-readme-activity-graph.vercel.app/graph/?username=JawherKl&bg_color=RRGGBBAA&title_color=00aeff&color=00aeff&line=00aeff&point=2ddc97&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
-     <a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=5q2" width="652" alt="jawher's Dev Card"/></a>
-      <p align="center">📫 Connectons-nous et construisons quelque chose d'incroyable ensemble ! </p> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawherKl&layout=compact&theme=algolia&langs_count=20" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" alt="JawherKl"/>
+    <br><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=JawherKl&theme=algolia&column=5&margin-w=15&margin-h=15" alt="JawherKl"/>
+    <br><br>
+    <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=JawherKl&theme=algolia&card_width=800" alt="JawherKl"/>
+    <br><br>
+    <img src="./profile-3d-contrib/profile-3d-contrib.svg" alt="JawherKl"/>
+    <br><br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=JawherKl&bg_color=RRGGBBAA&title_color=00aeff&color=00aeff&line=00aeff&point=2ddc97&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
+    <a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=5q2" width="652" alt="jawher's Dev Card"/></a>
+    <p align="center">📫 Connectons-nous et construisons quelque chose d'incroyable ensemble ! </p> 
   </p>
-</détails>
+</details>
 
 <details close>
-<summary><h2>🚀 Technologies & Projets</h2></summary> 
-  Je me spécialise dans la création d'applications évolutives, de services backend et de solutions DevOps en utilisant une variété de technologies modernes. 
-    
-  #### **💻 Développement Backend (70%):** 
-  - **Node.js, Express.js et NestJS** – Création d'API RESTful et GraphQL efficaces et évolutives. 
-    - **Go (Golang)** – Création de services backend haute performance. 
-    - **Symfony** – Développement d'applications web robustes en utilisant PHP. 
+ <summary><h2>🚀 Technologies & Projets</h2></summary> 
+ Je me spécialise dans la création d'applications évolutives, de services backend et de solutions DevOps en utilisant une variété de technologies modernes. 
   
-  #### **☁️ DevOps et Cloud (15%):** 
-  - **Kubernetes, Docker, ArgoCD, Jenkins** – Gestion des pipelines CI/CD et des applications conteneurisées. 
-    - **Kafka, Redis, ELK-Stack, Prometheus, Grafana** – Assurer l'observabilité et la haute disponibilité. 
-    
-  #### **🤖 IA et Grands Modèles de Langage (LLM) (10%):** 
-  - Expérimenter avec les **LLMs** pour des applications pilotées par l'IA. 
-    - Mise en œuvre de **solutions basées sur le ML et l'IA** en utilisant Python et les services cloud. 
-      
-  #### **🎨 Développement Frontend (5%):** 
-  - **Angular** – Création d'applications web dynamiques et interactives. 
-    
-    
-    💡 **Explorez mes dépôts** pour voir des projets utilisant ces technologies !
+ #### **💻 Développement Backend (70%):** 
+ - **Node.js, Express.js et NestJS** – Création d'API RESTful et GraphQL efficaces et évolutives. 
+  - **Go (Golang)** – Création de services backend haute performance. 
+  - **Symfony** – Développement d'applications web robustes en utilisant PHP. 
 
-</détails>
+ #### **☁️ DevOps et Cloud (15%):** 
+ - **Kubernetes, Docker, ArgoCD, Jenkins** – Gestion des pipelines CI/CD et des applications conteneurisées. 
+  - **Kafka, Redis, ELK-Stack, Prometheus, Grafana** – Assurer l'observabilité et la haute disponibilité. 
+  
+ #### **🤖 IA et Grands Modèles de Langage (LLM) (10%):** 
+ - Expérimenter avec les **LLMs** pour des applications pilotées par l'IA. 
+  - Mise en œuvre de **solutions basées sur le ML et l'IA** en utilisant Python et les services cloud. 
+    
+ #### **🎨 Développement Frontend (5%):** 
+ - **Angular** – Création d'applications web dynamiques et interactives. 
+  
+  
+ 💡 **Explorez mes dépôts** pour voir des projets utilisant ces technologies !
+
+</details>
 
 ***
 
 <p align="center"> 
-<i>&copy; <a href="https://github.com/JawherKl/"> JawherKl </a> 2024 - Présent 
-<i> Sous licence <a href="https://github.com/JawherKl/JawherKl/tree/master/LICENSE"> Licence Publique Générale GNU Affero 
-<a href="https://octodex.github.com/swagtocat/"> <img src="assets/swagtocat.png" width="60" height="60" /> </a><br> 
-Merci de votre visite 🙂 Merci de votre visite 🙂 Merci de votre visite 🙂 
+  <i>&copy; <a href="https://github.com/JawherKl/"> JawherKl </a> 2024 - Présent 
+  <i> Sous licence <a href="https://github.com/JawherKl/JawherKl/tree/master/LICENSE"> Licence Publique Générale GNU Affero 
+  <a href="https://octodex.github.com/swagtocat/"> <img src="assets/swagtocat.png" width="60" height="60" /> </a><br> 
+  <kbd>Merci de votre visite 🙂</kbd>
 </p>
 
 <!-- 

@@ -38,11 +38,11 @@ Mein Weg in der Welt der Programmierung wurde von einer tiefen Neugier und dem W
   <summary><h2>🛠️ Fähigkeiten und Fachkenntnisse</h2></summary>
 
   - **Backend:** Node.js, Express.js, NestJS, Go, Symfony. 
-    - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap. 
-    - **Programmiersprachen:** JavaScript, TypeScript, Php, Python, Go, C++. 
-    - **Datenbanken:** PostgreSQL, MySQL, MongoDB, Firebase, SQLite. 
-    - **Werkzeuge:** Git, Docker, K8s, Jenkins, Lens, Kafka, Redis, Argocd, Portainer, ELK-Stack, Grafana, Graylog, Prometheus. 
-    - **Sprachen:** Englisch, Französisch, Deutsch, Italienisch und Arabisch.
+  - **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap. 
+  - **Programmiersprachen:** JavaScript, TypeScript, Php, Python, Go, C++. 
+  - **Datenbanken:** PostgreSQL, MySQL, MongoDB, Firebase, SQLite. 
+  - **Werkzeuge:** Git, Docker, K8s, Jenkins, Lens, Kafka, Redis, Argocd, Portainer, ELK-Stack, Grafana, Graylog, Prometheus. 
+  - **Sprachen:** Englisch, Französisch, Deutsch, Italienisch und Arabisch.
 
   <img src="assets/devTools.png" alt="devTools"/> 
   <br><br> 

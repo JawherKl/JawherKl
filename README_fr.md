@@ -73,7 +73,7 @@ Mon parcours dans le monde de la programmation a été motivé par une profonde 
   
  #### **💻 Développement Backend (70%):** 
  - **Node.js (Express.js et NestJS)** – Création d'API RESTful et GraphQL efficaces et évolutives. 
-  - **Go (Golang)** – Création de services backend haute performance. 
+  - **Go** – Création de services backend haute performance. 
   - **Symfony** – Développement d'applications web robustes en utilisant PHP. 
 
  #### **☁️ DevOps et Cloud (15%):** 

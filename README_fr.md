@@ -72,7 +72,7 @@ Mon parcours dans le monde de la programmation a été motivé par une profonde 
  Je me spécialise dans la création d'applications évolutives, de services backend et de solutions DevOps en utilisant une variété de technologies modernes. 
   
  #### **💻 Développement Backend (70%):** 
- - **Node.js, Express.js et NestJS** – Création d'API RESTful et GraphQL efficaces et évolutives. 
+ - **Node.js (Express.js et NestJS)** – Création d'API RESTful et GraphQL efficaces et évolutives. 
   - **Go (Golang)** – Création de services backend haute performance. 
   - **Symfony** – Développement d'applications web robustes en utilisant PHP. 
 

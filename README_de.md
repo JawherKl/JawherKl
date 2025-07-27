@@ -72,17 +72,17 @@ Mein Weg in der Welt der Programmierung wurde von einer tiefen Neugier und dem W
     Ich spezialisiere mich auf den Bau skalierbarer Anwendungen, Backend-Dienste und DevOps-Lösungen unter Verwendung einer Vielzahl moderner Technologien. 
     
   #### **💻 Backend-Entwicklung (70%):** 
-  - **Node.js, Express.js und NestJS** – Erstellung effizienter und skalierbarer RESTful- und GraphQL-APIs. 
-    - **Go (Golang)** – Hochleistungsfähige Backend-Dienste erstellen. 
-    - **Symfony** – Entwicklung robuster Webanwendungen mit PHP. 
+  - **Node.js (Express.js und NestJS)** – Erstellung effizienter und skalierbarer (RESTfull, GraphQL, grpc und soap) APIs.
+  - **Go** – Hochleistungsfähige Backend-Dienste erstellen.
+  - **Symfony** – Entwicklung robuster Webanwendungen mit PHP. 
     
   #### **☁️ DevOps & Cloud (15%):** 
-  - **Kubernetes, Docker, ArgoCD, Jenkins** – Verwaltung von CI/CD-Pipelines und containerisierten Anwendungen. 
-    - **Kafka, Redis, ELK-Stack, Prometheus, Grafana** – Gewährleistung von Beobachtbarkeit und hoher Verfügbarkeit. 
+  - **Kubernetes, Docker, ArgoCD, Jenkins** – Verwaltung von CI/CD-Pipelines und containerisierten Anwendungen.
+  - **Kafka, Redis, ELK-Stack, Prometheus, Grafana** – Gewährleistung von Beobachtbarkeit und hoher Verfügbarkeit. 
     
   #### **🤖 KI & große Sprachmodelle (LLM) (10%):** 
-  - Experimentieren mit **LLMs** für KI-gesteuerte Anwendungen. 
-    - Implementierung von **ML- und KI-basierten Lösungen** mit Python und Cloud-Diensten. 
+  - Experimentieren mit **LLMs** für KI-gesteuerte Anwendungen.
+  - Implementierung von **ML und KI-basierten Lösungen** mit Python und Cloud-Diensten. 
 
   #### **🎨 Frontend-Entwicklung (5%):** 
   - **Angular** – Erstellen dynamischer und interaktiver Webanwendungen. 

@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=0785fb&vCenter=true&random=false&width=500&height=30&lines=Ciao+%F0%9F%91%8B%F0%9F%8F%BB,+sono+Jawher;Ingegnere+del+Software+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Contributore+Open+Source+%F0%9F%9A%A9" alt="Banner di JawherKl" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&weight=700&size=25&duration=2000&pause=1000&color=0785fb&vCenter=true&random=false&width=500&height=30&lines=Ciao+%F0%9F%91%8B%F0%9F%8F%BB,+sono+Jawher;Ingegnere+del+Software+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Contributore+Open+Source+%F0%9F%9A%A9" alt="Banner di JawherKl" />
   </a>
 </h1>
 

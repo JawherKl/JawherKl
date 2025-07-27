@@ -24,12 +24,7 @@
 
 **Willkommen auf meinem GitHub-Profil!**  
 
-Ich bin ein **Full-Stack-Entwickler** und arbeite gerne mit **Open-Source-Projekten**. Ich habe **2 Jahre Erfahrung** mit:  
-- Angular
-- Symfony  
-- Spring Boot  
-- Node.js  
-- DevOps  
+Ich bin ein **Full-Stack-Entwickler** und arbeite gerne mit **Open-Source-Projekten**. Ich habe **2 Jahre Erfahrung** mit Angular, Symfony, Spring Boot, Node.js und DevOps. 
 
 Ich liebe Programmieren, weil ich **nützliche Apps** bauen möchte. Meine Apps sollen **schnell** und **einfach** sein.
 

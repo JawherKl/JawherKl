@@ -73,8 +73,8 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
  I specialise in building scalable applications, backend services, and DevOps solutions using various modern technologies.
  
  #### **💻 Backend Development (70%):**  
- - **Node.js, Express.js, and NestJS** – Crafting efficient and scalable RESTful & GraphQL APIs.  
- - **Go (Golang)** – Building high-performance backend services.  
+ - **Node.js (Express.js and NestJS)** – Crafting efficient and scalable RESTful & GraphQL APIs.
+ - **Go** – Building high-performance backend services.  
  - **Symfony** – Developing robust web applications using PHP.
  
  #### **☁️ DevOps & Cloud (15%):**

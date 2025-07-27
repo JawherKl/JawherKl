@@ -72,8 +72,8 @@ Benvenuto nel mio profilo GitHub! Sono un Ingegnere Full-Stack appassionato e co
 Specializzato nello sviluppo di applicazioni scalabili, servizi backend e soluzioni DevOps con tecnologie moderne.
 
 #### **💻 Sviluppo Backend (70%):**  
-- **Node.js, Express.js, NestJS** - API RESTful & GraphQL efficienti e scalabili.  
-- **Go (Golang)** - Servizi backend ad alte prestazioni.  
+- **Node.js (Express.js, NestJS)** - API RESTful & GraphQL efficienti e scalabili.  
+- **Go** - Servizi backend ad alte prestazioni.  
 - **Symfony** - Applicazioni web robuste in PHP.
 
 #### **☁️ DevOps & Cloud (15%):**

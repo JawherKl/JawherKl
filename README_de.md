@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-**Willkommen auf meinem GitHub Profil!**  
+**Willkommen auf meinem GitHub profil!**  
 
 Ich bin ein **Full-Stack-Entwickler** und arbeite gerne mit **Open-Source-Projekten**. Ich habe **2 Jahre Erfahrung** mit Angular, Symfony, Spring Boot, Node.js und DevOps. 
 

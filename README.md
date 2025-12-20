@@ -1,4 +1,3 @@
-<!--
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&weight=700&size=25&duration=2000&pause=1000&color=0785fb&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Jawher+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+Open+Source+Contributor+%F0%9F%9A%A9" alt="jawherkl's banner" />
@@ -103,7 +102,6 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
   <a href="https://octodex.github.com/swagtocat/"><img src="assets/swagtocat.png" width="60" height="60" /></a><br>
   <kbd>Thanks for visiting 🙂</kbd>
 </p>
--->
 <!--
 learning to debug and reverse engineer.
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula

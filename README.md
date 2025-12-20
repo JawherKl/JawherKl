@@ -17,9 +17,11 @@
     <td align="center">
       <a href="README_de.md">🇩🇪 Switch to German</a>
     </td>
+    <!--
     <td align="center">
       <a href="README_it.md">🇮🇹 Switch to Italian</a>
     </td>
+    -->
   </tr>
 </table>
 

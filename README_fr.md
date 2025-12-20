@@ -16,9 +16,11 @@
       <td align="center">
         <a href="README_de.md">🇩🇪 Passer en Allemand</a>
       </td>
+      <!--
       <td align="center">
         <a href="README_it.md">🇮🇹 Passer en Italien</a>
       </td>
+      -->
   </tr>
 </table>
 

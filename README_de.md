@@ -15,12 +15,10 @@
     </td>
     <td align="center">
       <a href="README_fr.md">🇫🇷 Zu Französisch wechseln</a>
-    </td>
-    <!--  
+    </td> 
     <td align="center">
       <a href="README_it.md">🇮🇹 Zu Italienisch wechseln</a>
     </td>
-    -->
   </tr>
 </table>
 

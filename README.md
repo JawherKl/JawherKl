@@ -17,11 +17,9 @@
     <td align="center">
       <a href="README_de.md">🇩🇪 Switch to German</a>
     </td>
-    <!--
     <td align="center">
       <a href="README_it.md">🇮🇹 Switch to Italian</a>
     </td>
-    -->
   </tr>
 </table>
 
@@ -30,7 +28,7 @@
 Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-source contributor with over 2 years of experience, specialising in widely acclaimed technologies such as Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.
 </p>
 
-<details close>
+<details open>
 <summary><h2>🌟 About Me</h2></summary>
  
   - 💻 I specialise in JS, PHP and Java, but I also enjoy exploring other technologies and languages.

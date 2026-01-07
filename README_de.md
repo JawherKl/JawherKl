@@ -82,7 +82,7 @@ Ich liebe Programmieren, weil ich **nützliche Apps** bauen möchte. Meine Apps 
   - **Kubernetes, Docker, ArgoCD, Jenkins** – Verwaltung von CI/CD-Pipelines und containerisierten Anwendungen.
   - **Kafka, Redis, ELK-Stack, Prometheus, Grafana** – Gewährleistung von Beobachtbarkeit und hoher Verfügbarkeit. 
     
-  #### **🤖 KI & große Sprachmodelle (LLM) (10%):** 
+  #### **🤖 AI & große Sprachmodelle (LLM) (10%):** 
   - Experimentieren mit **LLMs** für KI-gesteuerte Anwendungen.
   - Implementierung von **ML und KI-basierten Lösungen** mit Python und Cloud-Diensten. 
 

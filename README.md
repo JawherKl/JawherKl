@@ -28,7 +28,7 @@
 Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-source contributor with over 2 years of experience, specialising in widely acclaimed technologies such as Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.
 </p>
 
-<details open>
+<details close>
 <summary><h2>🌟 About Me</h2></summary>
  
   - 💻 I specialise in JS, PHP and Java, but I also enjoy exploring other technologies and languages.
@@ -54,8 +54,8 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 <details close>
 <summary><h2>🔭 My github stats</h2></summary>
   <p align="center">
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=JawherKl&layout=compact&theme=algolia&langs_count=20" alt="JawherKl"/>&nbsp;
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JawherKl&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" alt="JawherKl"/>
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=JawherKl&layout=compact&theme=algolia&langs_count=20" height="200" alt="JawherKl"/>&nbsp;
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JawherKl&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" height="200" alt="JawherKl"/>
    <br><br>
    <img src="https://nirzak-trophies.vercel.app/?username=JawherKl&theme=algolia&column=5&margin-w=15&margin-h=15" alt="JawherKl"/>
    <br><br>
@@ -93,6 +93,11 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 
 </details>
 
+***
+
+<p align="center">
+  <img align="center" src="https://gitroll.io/api/badges/profiles/v1/urVgrjgrQZHPFF2Sfcm60CZlx3xv2?theme=dracula" height="350" alt="GitRoll Profile Badge"/>
+</p>
 
 ***
 

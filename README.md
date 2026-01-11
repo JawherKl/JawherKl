@@ -109,6 +109,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
   <a href="https://octodex.github.com/swagtocat/"><img src="assets/swagtocat.png" width="60" height="60" /></a><br>
   <kbd>Thanks for visiting 🙂</kbd>
 </p>
+
 <!--
 learning to debug and reverse engineer.
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula

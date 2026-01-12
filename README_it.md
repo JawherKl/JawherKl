@@ -54,10 +54,10 @@ Amo programmare perché voglio creare **app utili**. Voglio che le mie app siano
 <details close>
 <summary><h2>🔭 Statistiche GitHub</h2></summary>
   <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawherKl&layout=compact&theme=algolia&langs_count=20" alt="Linguaggi più usati"/>&nbsp;&nbsp;&nbsp;
-   <img src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" alt="Statistiche"/>
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JawherKl&layout=compact&theme=algolia&langs_count=20" alt="Linguaggi più usati"/>&nbsp;&nbsp;&nbsp;
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JawherKl&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" alt="Statistiche"/>
    <br><br>
-   <img src="https://github-profile-trophy.vercel.app/?username=JawherKl&theme=algolia&column=5&margin-w=15&margin-h=15" alt="Trofei"/>
+   <img src="https://nirzak-trophies.vercel.app/?username=JawherKl&theme=algolia&column=5&margin-w=15&margin-h=15" alt="Trofei"/>
    <br><br>
    <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=JawherKl&theme=algolia&card_width=800" alt="Streak"/>
    <br><br>

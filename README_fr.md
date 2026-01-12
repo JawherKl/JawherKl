@@ -52,10 +52,10 @@ Mon parcours dans le monde de la programmation a été motivé par une profonde 
 <details close> 
   <summary><h2>🔭 Mes statistiques GitHub</h2></summary>
   <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawherKl&layout=compact&theme=algolia&langs_count=20" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=JawherKl&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" alt="JawherKl"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JawherKl&layout=compact&theme=algolia&langs_count=20" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JawherKl&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" alt="JawherKl"/>
     <br><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=JawherKl&theme=algolia&column=5&margin-w=15&margin-h=15" alt="JawherKl"/>
+    <img src="https://nirzak-trophies.vercel.app/?username=JawherKl&theme=algolia&column=5&margin-w=15&margin-h=15" alt="JawherKl"/>
     <br><br>
     <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=JawherKl&theme=algolia&card_width=800" alt="JawherKl"/>
     <br><br>

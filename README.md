@@ -80,10 +80,10 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
  
  #### **☁️ DevOps & Cloud (20%):**
  - **Kubernetes, Docker, ArgoCD, Jenkins** – Managing CI/CD pipelines and containerized applications.  
- - **Kafka, Redis, ELK-Stack, Prometheus, Grafana** – Ensuring observability and high availability.  
+ - **Kafka, Redis, Prometheus, Grafana** – Ensuring observability and high availability.  
  
  #### **🤖 AI & Large Language Models (LLM) (15%):**
- - Experimenting with **LLMs** for AI-driven applications.  
+ - Experimenting with **LLMs** for AI-driven applications.
  - Implementing **ML and AI-based solutions** using Python and cloud services.
  
  #### **🎨 Frontend Development (5%):**

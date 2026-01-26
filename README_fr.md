@@ -71,22 +71,23 @@ Mon parcours dans le monde de la programmation a été motivé par une profonde 
  <summary><h2>🚀 Technologies & Projets</h2></summary> 
  Je me spécialise dans la création d'applications évolutives, de services backend et de solutions DevOps en utilisant une variété de technologies modernes. 
   
- #### **💻 Développement Backend (70%):** 
- - **Node.js (Express.js et NestJS)** – Création d'API RESTful et GraphQL efficaces et évolutives. 
+ #### **💻 Développement Backend (65%):** 
+  - **Node.js (Express.js et NestJS)** – Création d'API RESTful et GraphQL efficaces et évolutives. 
   - **Go** – Création de services backend haute performance. 
   - **Symfony** – Développement d'applications web robustes en utilisant PHP. 
 
- #### **☁️ DevOps et Cloud (15%):** 
- - **Kubernetes, Docker, ArgoCD, Jenkins** – Gestion des pipelines CI/CD et des applications conteneurisées. 
+ #### **☁️ DevOps et Cloud (20%):** 
+  - **Kubernetes, Docker, ArgoCD, Jenkins** – Gestion des pipelines CI/CD et des applications conteneurisées. 
   - **Kafka, Redis, ELK-Stack, Prometheus, Grafana** – Assurer l'observabilité et la haute disponibilité. 
   
- #### **🤖 IA et Grands Modèles de Langage (LLM) (10%):** 
- - Expérimenter avec les **LLMs** pour des applications pilotées par l'IA. 
-  - Mise en œuvre de **solutions basées sur le ML et l'IA** en utilisant Python et les services cloud. 
-    
+ #### **🤖 IA et Grands Modèles de Langage (LLM) (15%):** 
+  - Expérimenter avec les **LLMs** pour des applications pilotées par l'IA. 
+  - Mise en œuvre de **solutions basées sur le ML et l'IA** en utilisant Python et les services cloud.
+
+<!--
  #### **🎨 Développement Frontend (5%):** 
  - **Angular** – Création d'applications web dynamiques et interactives. 
-  
+  -->
   
  💡 **Explorez mes dépôts** pour voir des projets utilisant ces technologies !
 

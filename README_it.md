@@ -78,7 +78,7 @@ Specializzato nello sviluppo di applicazioni scalabili, servizi backend e soluzi
 - **Go** - Servizi backend ad alte prestazioni.  
 - **Symfony** - Applicazioni web robuste in PHP.
 
-#### **☁️ DevOps & Cloud (15%):**
+#### **☁️ DevOps & Cloud (20%):**
 - **Kubernetes, Docker, ArgoCD, Jenkins** - Gestione CI/CD e applicazioni containerizzate.  
 - **Kafka, Redis, ELK-Stack, Prometheus, Grafana** - Osservabilità e alta disponibilità.  
 
@@ -86,9 +86,10 @@ Specializzato nello sviluppo di applicazioni scalabili, servizi backend e soluzi
 - Sperimentazione con **LLM** per applicazioni AI.  
 - Implementazione soluzioni **ML e AI** con Python e servizi cloud.
 
+<!--
 #### **🎨 Sviluppo Frontend (5%):**
 - **Angular** - Applicazioni web dinamiche e interattive.    
-
+-->
 💡 **Esplora i miei repository** per scoprire progetti con queste tecnologie!  
 </details>
 

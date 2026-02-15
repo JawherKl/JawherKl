@@ -73,12 +73,12 @@ Ich liebe Programmieren, weil ich **nützliche Apps** bauen möchte. Meine Apps 
   <summary><h2>🚀 Technologien & Projekte</h2></summary> 
     Ich spezialisiere mich auf den Bau skalierbarer Anwendungen, Backend-Dienste und DevOps-Lösungen unter Verwendung einer Vielzahl moderner Technologien. 
     
-  #### **💻 Backend-Entwicklung (70%):** 
+  #### **💻 Backend-Entwicklung (60%):** 
   - **Node.js (Express.js und NestJS)** – Erstellung effizienter und skalierbarer (RESTfull, GraphQL, grpc und soap) APIs.
   - **Go** – Hochleistungsfähige Backend-Dienste erstellen.
   - **PHP** – Entwicklung robuster Webanwendungen mit **Symfony**.
     
-  #### **☁️ DevOps & Cloud (20%):** 
+  #### **☁️ DevOps & Cloud (30%):** 
   - **Kubernetes, Docker, ArgoCD, Jenkins** – Verwaltung von CI/CD-Pipelines und containerisierten Anwendungen.
   - **Kafka, Redis, ELK-Stack, Prometheus, Grafana** – Gewährleistung von Beobachtbarkeit und hoher Verfügbarkeit. 
     

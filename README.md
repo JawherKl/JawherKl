@@ -73,12 +73,12 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
  <summary><h2>🚀 Technologies & Projects</h2></summary>
  I specialise in building scalable applications, backend services, and DevOps solutions using various modern technologies.
  
- #### **💻 Backend Development (70%):**  
+ #### **💻 Backend Development (60%):**  
  - **Node.js (Express.js and NestJS)** – Crafting efficient and scalable RESTful & GraphQL APIs.
  - **Go** – Building high-performance backend services.  
  - **PHP** – Developing robust web applications using Symfony.
  
- #### **☁️ DevOps & Cloud (20%):**
+ #### **☁️ DevOps & Cloud (30%):**
  - **Kubernetes, Docker, ArgoCD, Jenkins** – Managing CI/CD pipelines and containerized applications.  
  - **Kafka, Redis, Prometheus, Grafana** – Ensuring observability and high availability.  
  

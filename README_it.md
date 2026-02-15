@@ -73,12 +73,12 @@ Amo programmare perché voglio creare **app utili**. Voglio che le mie app siano
 <summary><h2>🚀 Tecnologie & Progetti</h2></summary>
 Specializzato nello sviluppo di applicazioni scalabili, servizi backend e soluzioni DevOps con tecnologie moderne.
 
-#### **💻 Sviluppo Backend (70%):**  
+#### **💻 Sviluppo Backend (60%):**  
 - **Node.js (Express.js, NestJS)** - API RESTful & GraphQL efficienti e scalabili.  
 - **Go** - Servizi backend ad alte prestazioni.  
 - **Symfony** - Applicazioni web robuste in PHP.
 
-#### **☁️ DevOps & Cloud (20%):**
+#### **☁️ DevOps & Cloud (30%):**
 - **Kubernetes, Docker, ArgoCD, Jenkins** - Gestione CI/CD e applicazioni containerizzate.  
 - **Kafka, Redis, ELK-Stack, Prometheus, Grafana** - Osservabilità e alta disponibilità.  
 

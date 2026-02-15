@@ -71,12 +71,12 @@ Mon parcours dans le monde de la programmation a été motivé par une profonde 
  <summary><h2>🚀 Technologies & Projets</h2></summary> 
  Je me spécialise dans la création d'applications évolutives, de services backend et de solutions DevOps en utilisant une variété de technologies modernes. 
   
- #### **💻 Développement Backend (70%):** 
+ #### **💻 Développement Backend (60%):** 
   - **Node.js (Express.js et NestJS)** – Création d'API RESTful et GraphQL efficaces et évolutives. 
   - **Go** – Création de services backend haute performance. 
   - **PHP** – Développement d'applications web robustes en utilisant **Symfony**. 
 
- #### **☁️ DevOps et Cloud (20%):** 
+ #### **☁️ DevOps et Cloud (30%):** 
   - **Kubernetes, Docker, ArgoCD, Jenkins** – Gestion des pipelines CI/CD et des applications conteneurisées. 
   - **Kafka, Redis, ELK-Stack, Prometheus, Grafana** – Assurer l'observabilité et la haute disponibilité. 
   

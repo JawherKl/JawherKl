@@ -4,12 +4,6 @@
   </a>
 </h1>
 
-<div align="right">
-
-  [![gayanvoice/top-github-users/tunisia](https://raw.githubusercontent.com/gayanvoice/top-github-users-ranking/main/svg/tunisia/jawherkl.svg)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/tunisia.md#jawherkl)
-  
-</div>
-
 <p align="left" width="33%">
       <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=084777&style=flat" alt="JawherKl" />
 </p>
@@ -134,4 +128,10 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
       <img src="https://github-contributor-stats.vercel.app/api?username=jawherkl&limit=10&theme=nightowl&combine_all_yearly_contributions=true" alt="JawherKl"/>
       <br><br>
       https://coddy.tech/cheat-sheets/markdown
+      
+<div align="right">
+
+  [![gayanvoice/top-github-users/tunisia](https://raw.githubusercontent.com/gayanvoice/top-github-users-ranking/main/svg/tunisia/jawherkl.svg)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/tunisia.md#jawherkl)
+  
+</div>
 -->

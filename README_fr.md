@@ -8,19 +8,21 @@
 <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=084777&style=flat" alt="JawherKl" /> 
 </p>
 
-<table>
-    <tr>
-      <td align="center">
-        <a href="README.md">🇬🇧 Passer en Anglais</a>
-      </td>
-      <td align="center">
-        <a href="README_de.md">🇩🇪 Passer en Allemand</a>
-      </td>
-      <td align="center">
-        <a href="README_it.md">🇮🇹 Passer en Italien</a>
-      </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+      <tr>
+        <td align="center">
+          <a href="README.md">🇬🇧 Passer en Anglais</a>
+        </td>
+        <td align="center">
+          <a href="README_de.md">🇩🇪 Passer en Allemand</a>
+        </td>
+        <td align="center">
+          <a href="README_it.md">🇮🇹 Passer en Italien</a>
+        </td>
+    </tr>
+  </table>
+</div>
 
 <p align="left"> 
 Bienvenue sur mon profil GitHub ! Je suis un ingénieur Full-Stack passionné et contributeur open-source avec plus de 2 ans d'expérience pratique, spécialisé dans des technologies largement reconnues telles qu'Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go et DevOps. Mon parcours dans le monde de la programmation a été guidé par une profonde curiosité et un désir de créer des applications efficaces, évolutives et conviviales. 

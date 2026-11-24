@@ -62,8 +62,8 @@
 <details close>
 <summary><h2>🔭 My github stats</h2></summary>
   <p align="center">
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=JawherKl&layout=compact&theme=algolia&langs_count=20" height="200" alt="JawherKl"/>&nbsp;
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JawherKl&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" height="200" alt="JawherKl"/>
+   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=JawherKl&layout=compact&theme=algolia&langs_count=10" height="200" alt="JawherKl"/>&nbsp;
+   <img src="https://github-stats-extended.vercel.app/api?username=JawherKl&show_icons=true&locale=en&show=prs_merged&theme=algolia" height="200" alt="JawherKl"/>
    <br><br>
    <img src="https://nirzak-trophies.vercel.app/?username=JawherKl&theme=algolia&column=5&margin-w=15&margin-h=15" alt="JawherKl"/>
    <br><br>
@@ -72,7 +72,7 @@
    <img src="./profile-3d-contrib/profile-3d-contrib.svg" alt="JawherKl"/>
    <br><br>
    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=JawherKl&bg_color=RRGGBBAA&title_color=00aeff&color=00aeff&line=00aeff&point=2ddc97&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
-   <!--<a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=5q2" width="652" alt="jawher's Dev Card"/></a>-->
+   <a href="https://app.daily.dev/jawher62"><img src="https://api.daily.dev/devcards/v2/Tflf66qLrhQ3HGtLrchsW.png?type=wide&r=5q2" width="652" alt="jawher's Dev Card"/></a>
    <p align="center">📫 Let's connect and build something amazing together!</p>
   </p>
  </details>

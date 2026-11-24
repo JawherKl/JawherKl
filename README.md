@@ -7,6 +7,7 @@
 <p align="left" width="33%">
       <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=084777&style=flat" alt="JawherKl" />
 </p>
+
 <div align="center">
   <table>
     <tr>
@@ -22,7 +23,6 @@
     </tr>
   </table>
 </div>
-
 
 <p aligne="left">
 Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-source contributor with solid professional experience, specialising in widely acclaimed technologies such as Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.

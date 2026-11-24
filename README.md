@@ -125,4 +125,5 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
       <img src="https://user-badge.committers.top/tunisia_private/JawherKl.svg">
       <img src="https://github-contributor-stats.vercel.app/api?username=jawherkl&limit=10&theme=nightowl&combine_all_yearly_contributions=true" alt="JawherKl"/>
       <br><br>
+      https://coddy.tech/cheat-sheets/markdown
 -->

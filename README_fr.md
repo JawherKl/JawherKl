@@ -24,8 +24,14 @@
 </div>
 
 <p align="left"> 
-Bienvenue sur mon profil GitHub ! Je suis un ingénieur Full-Stack passionné et contributeur open-source avec plus de 2 ans d'expérience pratique, spécialisé dans des technologies largement reconnues telles qu'Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go et DevOps. Mon parcours dans le monde de la programmation a été guidé par une profonde curiosité et un désir de créer des applications efficaces, évolutives et conviviales. 
-Mon parcours dans le monde de la programmation a été motivé par une profonde curiosité et un désir de créer des applications efficaces, évolutives et conviviales.
+
+  **Bienvenue sur mon profil GitHub !**
+  
+  Je suis un ingénieur Full-Stack passionné et contributeur open-source avec plus de 2 ans d'expérience pratique, spécialisé dans des technologies largement reconnues telles qu'Angular, Spring Boot, Quarkus, Android, Node.js, Symfony, Go et DevOps. 
+  
+  Mon parcours dans le monde de la programmation a été guidé par une profonde curiosité et un désir de créer des applications efficaces, évolutives et conviviales.
+
+</p>
 
 <details close> 
   <summary><h2>🌟 À propos de moi</h2></summary>

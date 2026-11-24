@@ -7,7 +7,6 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=084777&style=flat" alt="JawherKl" /> 
 </p>
-
 <div align="center">
   <table>
       <tr>

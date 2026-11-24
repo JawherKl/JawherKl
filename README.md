@@ -7,20 +7,21 @@
 <p align="left" width="33%">
       <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=084777&style=flat" alt="JawherKl" />
 </p>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="README_fr.md">🇫🇷 Switch to French</a>
-    </td>
-    <td align="center">
-      <a href="README_de.md">🇩🇪 Switch to German</a>
-    </td>
-    <td align="center">
-      <a href="README_it.md">🇮🇹 Switch to Italian</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="README_fr.md">🇫🇷 Switch to French</a>
+      </td>
+      <td align="center">
+        <a href="README_de.md">🇩🇪 Switch to German</a>
+      </td>
+      <td align="center">
+        <a href="README_it.md">🇮🇹 Switch to Italian</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <p aligne="left">

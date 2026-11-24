@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<div align="center">
+<div align="right">
 
   [![gayanvoice/top-github-users/tunisia](https://raw.githubusercontent.com/gayanvoice/top-github-users-ranking/main/svg/tunisia/jawherkl.svg)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/tunisia.md#jawherkl)
   

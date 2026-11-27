@@ -102,6 +102,14 @@ Specializzato nello sviluppo di applicazioni scalabili, servizi backend e soluzi
 ***
 
 <p align="center">
+  <a href="https://gitroll.io/profile/urVgrjgrQZHPFF2Sfcm60CZlx3xv2" target="_blank">
+    <img align="center" src="https://gitroll.io/api/badges/profiles/v1/urVgrjgrQZHPFF2Sfcm60CZlx3xv2?theme=darkEmerald" height="310" alt="GitRoll Profile Badge"/>
+  </a>
+</p>
+
+***
+
+<p align="center">
   <i>&copy; <a href="https://github.com/JawherKl/">JawherKl</a> 2024 - Presente</i><br>
   <i>Licenza <a href="https://github.com/JawherKl/JawherKl/tree/master/LICENSE">GNU General Public License</a></i><br>
   <a href="https://octodex.github.com/swagtocat/"><img src="assets/swagtocat.png" width="60" height="60" /></a><br>

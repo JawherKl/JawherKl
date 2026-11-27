@@ -106,7 +106,7 @@
 
 <p align="center">
   <a href="https://gitroll.io/profile/urVgrjgrQZHPFF2Sfcm60CZlx3xv2" target="_blank">
-    <img align="center" src="https://gitroll.io/api/badges/profiles/v1/urVgrjgrQZHPFF2Sfcm60CZlx3xv2?theme=dracula" height="310" alt="GitRoll Profile Badge"/>
+    <img align="center" src="https://gitroll.io/api/badges/profiles/v1/urVgrjgrQZHPFF2Sfcm60CZlx3xv2?theme=darkEmerald" height="310" alt="GitRoll Profile Badge"/>
   </a>
 </p>
 

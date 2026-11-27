@@ -100,6 +100,14 @@
 
 ***
 
+<p align="center">
+  <a href="https://gitroll.io/profile/urVgrjgrQZHPFF2Sfcm60CZlx3xv2" target="_blank">
+    <img align="center" src="https://gitroll.io/api/badges/profiles/v1/urVgrjgrQZHPFF2Sfcm60CZlx3xv2?theme=darkEmerald" height="310" alt="GitRoll Profile Badge"/>
+  </a>
+</p>
+
+***
+
 <p align="center"> 
   <i>&copy; <a href="https://github.com/JawherKl/"> JawherKl </a> 2024 - Gegenwart</i><br>
   <i> Lizenziert unter <a href="https://github.com/JawherKl/JawherKl/tree/master/LICENSE"> GNU General Public License</a></i><br>
